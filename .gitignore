@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 .next
 .env
@@ -7,6 +8,8 @@ node_modules
 next-env.d.ts
 *.tsbuildinfo
 =======
+=======
+>>>>>>> 1f53cd28b166ab7e6a23133526e3e4f9bd1e5d11
 =======
 >>>>>>> 1f53cd28b166ab7e6a23133526e3e4f9bd1e5d11
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -46,6 +49,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 1f53cd28b166ab7e6a23133526e3e4f9bd1e5d11
+=======
 >>>>>>> 1f53cd28b166ab7e6a23133526e3e4f9bd1e5d11
 =======
 >>>>>>> 1f53cd28b166ab7e6a23133526e3e4f9bd1e5d11
